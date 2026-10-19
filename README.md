@@ -1,3 +1,5 @@
+**Note.** The code in this project was generated automatically to match my design, and I tested it from the user side.
+
 # wine-vtcon
 
 A small C hook for Wine's console host.
